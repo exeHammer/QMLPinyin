@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CandidateBar.qml</file>
+        <file>InputField.qml</file>
+        <file>InputMethodIndicator.qml</file>
+        <file>InputMethodViewer.qml</file>
+        <file>icons/backspace.png</file>
+        <file>icons/capslock_off.png</file>
+        <file>icons/capslock_on.png</file>
+        <file>icons/enter.png</file>
+        <file>icons/keyboard.png</file>
+        <file>icons/keyboard-color.png</file>
+        <file>icons/space.png</file>
+        <file>dict/dict_pinyin.dat</file>
+        <file>dict/pinyinEx.ini</file>
+    </qresource>
+</RCC>
